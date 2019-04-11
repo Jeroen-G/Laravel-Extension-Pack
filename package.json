@@ -2,10 +2,16 @@
     "name": "laravel-extension-pack",
     "displayName": "Laravel Extension Pack",
     "description": "A collection of extensions useful for Laravel development",
+    "publisher": "jeroeng",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.33.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jeroen-G/Laravel-Extension-Pack"
+    },
+    "icon": "laravel.png",
     "categories": [
         "Extension Packs"
     ],
