@@ -1,0 +1,19 @@
+{
+    "name": "laravel-extension-pack",
+    "displayName": "Laravel Extension Pack",
+    "description": "A collection of extensions useful for Laravel development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "calebporzio.better-phpunit",
+        "codingyu.laravel-goto-view",
+        "formulahendry.auto-close-tag",
+        "mehedidracula.php-constructor",
+        "mehedidracula.php-namespace-resolver"
+    ]
+}
