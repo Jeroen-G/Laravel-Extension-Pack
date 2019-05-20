@@ -3,7 +3,7 @@
     "displayName": "Laravel Extension Pack",
     "description": "A collection of extensions useful for Laravel development",
     "publisher": "jeroeng",
-    "version": "0.0.1",
+    "version": "0.1",
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -18,8 +18,13 @@
     "extensionPack": [
         "calebporzio.better-phpunit",
         "codingyu.laravel-goto-view",
+        "daylerees.rainglow",
         "formulahendry.auto-close-tag",
+        "ionutvmi.path-autocomplete",
         "mehedidracula.php-constructor",
-        "mehedidracula.php-namespace-resolver"
+        "mehedidracula.php-namespace-resolver",
+        "neilbrayfield.php-docblocker",
+        "qinjia.view-in-browser",
+        "tyriar.sort-lines"
     ]
 }
