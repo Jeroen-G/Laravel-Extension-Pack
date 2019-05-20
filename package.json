@@ -3,7 +3,7 @@
     "displayName": "Laravel Extension Pack",
     "description": "A collection of extensions useful for Laravel development",
     "publisher": "jeroeng",
-    "version": "0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.33.0"
     },
